@@ -1,4 +1,4 @@
-# Implementations for four UVa questions
+# Implementations for Four UVa Questions
 
 ## FleaCircus
 ### Data Structure:
